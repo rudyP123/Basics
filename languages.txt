@@ -1,9 +1,7 @@
 - What is your favorite programming language? Why?
 
-My favorite programming language is python due to the simple functionality and <br> various packages I can use such as pandas and numpy. It is not syntax heavy like <br> java or other object oriented programming languages and it is more user <br> friendly. There is also a lot you can do with it for data analytics and I am <br> excited to learn more. <br>
+My favorite programming language is python due to the simple functionality and various packages I can use such as pandas and numpy. It is not syntax heavy like java or other object oriented programming languages and it is more user friendly. There is also a lot you can do with it for data analytics and I am excited to learn more.
 
-- Is your favorite language the one you are also most experienced with? If not, <br> which language are you most experienced with? <br>
+- Is your favorite language the one you are also most experienced with? If not, which language are you most experienced with?
 
-My favorite language is not the one I am most experienced with. I am most <br> experienced with java, but after starting to learn python I am starting to like <br> python more and more over java. <br>
-
-
+My favorite language is not the one I am most experienced with. I am most experienced with java, but after starting to learn python I am starting to like python more and more over java.
